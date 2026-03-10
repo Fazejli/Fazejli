@@ -19,11 +19,11 @@ Here are some projects from my journey at 42:
 
 | Project       | Description                             | Note | Link |
 |---------------|-----------------------------------------|------|------|
-| Push Swap     | Sorting integers with limited ops       | 98%  | [Repo](https://github.com/Fazejli/Projects-C/tree/main/push_swap) |
+| Push Swap     | Sorting integers with limited ops       |  98% | [Repo](https://github.com/Fazejli/Projects-C/tree/main/push_swap) |
 | Pipex         | Implementing Unix pipes                 | 100% | [Repo](https://github.com/Fazejli/Projects-C/tree/main/pipex) |
 | Minishell     | Custom shell implementation             | 125% | [Repo](https://github.com/Fazejli/Projects-C/tree/main/minishell) |
 | Philosophers  | Dining philosophers concurrency problem | 100% | [Repo](https://github.com/Fazejli/Projects-C/tree/main/philosophers) |
-| Cub3D         | Mini 3D game project                    | ...  | [Repo](https://github.com/Fazejli/Projects-C/tree/main/cub3d) |
+| Cub3D         | Mini 3D game project                    |  ... | [Repo](https://github.com/Fazejli/Projects-C/tree/main/cub3d) |
 
 ---
 
