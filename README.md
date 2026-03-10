@@ -34,18 +34,22 @@ My training at 42 — known for its rigorous peer-learning and low-level C progr
 
 ---
 
-## 🔐 42 Projects — Security-Relevant Highlights
+## 🔐 42 Cursus Projects
 
 | Project | Score | Keywords | Goal |
 |---------|:-----:|----------|----------------|
-| **[Minishell](https://github.com/Fazejli/Projects-C/tree/main/minishell)** | 125% | `processes` `syscalls` `parsing` `fork/exec` | Build a fully functional UNIX shell from scratch — deep understanding of how shells process commands, a critical skill for privilege escalation & shell exploitation |
-| **[NetPractice](https://github.com/Fazejli/Projects-C/tree/main/netpractice)** | 100% | `networking` `TCP/IP` `subnetting` `routing` | Master IP addressing, subnetting and routing — foundational knowledge for network pentesting |
-| **[Born2beroot](https://github.com/Fazejli/Projects-C/tree/main/born2beroot)** | 100% | `Linux` `hardening` `SSH` `sudo` `UFW` `cron` | Set up and harden a Debian server: SSH config, firewall rules, sudo policies, password policies |
-| **[Pipex](https://github.com/Fazejli/Projects-C/tree/main/pipex)** | 100% | `pipes` `IPC` `file descriptors` `UNIX` | Reimplement UNIX pipes — understanding of IPC, file descriptors, and process communication |
-| **[Philosophers](https://github.com/Fazejli/Projects-C/tree/main/philosophers)** | 100% | `threads` `mutex` `race conditions` `deadlocks` | Solve the dining philosophers problem — deep understanding of concurrency, race conditions & deadlocks |
-| **[Cub3D](https://github.com/Fazejli/Projects-C/tree/main/cub3d)** | 125% | `C` `raycasting` `graphics` `memory` | Complex C project involving precise memory management and low-level graphics rendering |
-| **[Push_swap](https://github.com/Fazejli/Projects-C/tree/main/push_swap)** | 96% | `algorithms` `optimization` `data structures` | Algorithm design and optimization under strict constraints |
-| **[ft_printf](https://github.com/Fazejli/Projects-C/tree/main/ft_printf)** | 125% | `variadic functions` `format strings` `C` | Reimplement printf — understanding of format string vulnerabilities at their root |
+| **[Cub3D](https://github.com/Fazejli/cub3d)** | In progress | `C` `raycasting` `graphics` `memory` | Complex C project involving precise memory management and low-level graphics rendering |
+| **[CPP Modules](https://github.com/Fazejli/CPP)** | - | `C++` `OOP` `templates` `STL` `polymorphism` | 9-module series covering core C++ concepts from classes and inheritance to templates and exceptions |
+| **[NetPractice](https://github.com/Fazejli/netpractice)** | 100% | `networking` `TCP/IP` `subnetting` `routing` | Master IP addressing, subnetting and routing — foundational knowledge for network pentesting |
+| **[Minishell](https://github.com/dbouizem/minishell)** | 125% | `processes` `syscalls` `parsing` `fork/exec` | Build a fully functional UNIX shell from scratch — deep understanding of how shells process commands, a critical skill for privilege escalation & shell exploitation |
+| **[Philosophers](https://github.com/Fazejli/Philosophers)** | 100% | `threads` `mutex` `race conditions` `deadlocks` | Solve the dining philosophers problem — deep understanding of concurrency, race conditions & deadlocks |
+| **[FdF](https://github.com/Fazejli/FDF)** | 100% | `C` `graphics` `isometric` `bresenham` | 3D wireframe renderer projecting heightmaps with isometric projection and MiniLibX |
+| **[Pipex](https://github.com/Fazejli/pipex)** | 100% | `pipes` `IPC` `file descriptors` `UNIX` | Reimplement UNIX pipes — understanding of IPC, file descriptors, and process communication |
+| **[Push_swap](https://github.com/Fazejli/push_swap)** | 96% | `algorithms` `optimization` `data structures` | Algorithm design and optimization under strict constraints |
+| **[B2b](https://github.com/Fazejli/born2beroot)** | 100% | `Linux` `hardening` `SSH` `sudo` `UFW` `cron` | Set up and harden a Debian server: SSH config, firewall rules, sudo policies, password policies |
+| **[Gnl](https://github.com/Fazejli/get_next_line)** | 100% | `file I/O` `static variables` `buffering` `memory management` | Implement a function that reads a file line by line — deep understanding of file descriptors, buffering mechanisms, and efficient memory handling in C |
+| **[Ft_printf](https://github.com/Fazejli/ft_printf)** | 125% | `variadic functions` `format strings` `C` | Reimplement printf — understanding of format string vulnerabilities at their root |
+| **[Libft](https://github.com/Fazejli/Libft)** | 125% | `C` `standard library` `memory` `data structures` | Reimplement key functions from the C standard library and build custom utilities — strong foundation in memory management, pointers, and low-level C programming |
 
 ---
 
