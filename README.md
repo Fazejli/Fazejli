@@ -100,18 +100,6 @@ My training at 42 — known for its rigorous peer-learning and low-level C progr
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Fazejli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fazejli&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fazejli&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9)
-
-</div>
-
----
-
 ## 📫 Contact
 
 - 📧 **Email:** [fadwazejli58@gmail.com](mailto:fadwazejli58@gmail.com)
