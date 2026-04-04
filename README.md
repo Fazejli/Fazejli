@@ -38,7 +38,7 @@ My training at 42 — known for its rigorous peer-learning and low-level C progr
 
 | Project | Score | Keywords | Goal |
 |---------|:-----:|----------|----------------|
-| **[Cub3D](https://github.com/Fazejli/cub3d)** | In progress | `C` `raycasting` `graphics` `memory` | Complex C project involving precise memory management and low-level graphics rendering |
+| **[Cub3D](https://github.com/Fazejli/cub3d)** | 125% | `C` `raycasting` `graphics` `memory` | Complex C project involving precise memory management and low-level graphics rendering |
 | **[CPP Modules](https://github.com/Fazejli/CPP)** | - | `C++` `OOP` `templates` `STL` `polymorphism` | 9-module series covering core C++ concepts from classes and inheritance to templates and exceptions |
 | **[NetPractice](https://github.com/Fazejli/netpractice)** | 100% | `networking` `TCP/IP` `subnetting` `routing` | Master IP addressing, subnetting and routing — foundational knowledge for network pentesting |
 | **[Minishell](https://github.com/dbouizem/minishell)** | 125% | `processes` `syscalls` `parsing` `fork/exec` | Build a fully functional UNIX shell from scratch — deep understanding of how shells process commands, a critical skill for privilege escalation & shell exploitation |
