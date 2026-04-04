@@ -108,8 +108,8 @@ My training at 42 — known for its rigorous peer-learning and low-level C progr
 
 - 📧 **Email:** [fadwazejli58@gmail.com](mailto:fadwazejli58@gmail.com)
 - 🌍 **Portfolio:** [fazejli.github.io/Portfolio-Dev-Web](https://fazejli.github.io/Portfolio-Dev-Web/)
-- 💼 **LinkedIn:** *coming soon*
-- 🌏 **Location:** Paris, France
+- 💼 **LinkedIn:** [www.linkedin.com/in/fadwa-zejli](www.linkedin.com/in/fadwa-zejli)
+- 🌏 **Location:** 75001 Paris - France
 
 ---
 
