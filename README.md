@@ -40,7 +40,7 @@ These skills are directly applicable to cybersecurity, backend systems, and infr
 
 ---
 
-## 🔐 42 Cursus Projects
+## 🎓 42 Cursus Projects
 
 | Project | Score | Keywords | Focus |
 |---------|:-----:|----------|----------------|
@@ -56,6 +56,19 @@ These skills are directly applicable to cybersecurity, backend systems, and infr
 | **[Gnl](https://github.com/Fazejli/get_next_line)** | 100% | `file I/O` `static variables` `buffering` `memory management` | Implement a function that reads a file line by linen (file descriptors, buffering mechanisms, and efficient memory handling in C)|
 | **[Ft_printf](https://github.com/Fazejli/ft_printf)** | 125% | `variadic functions` `format strings` `C` | Reimplement printf (string format vulnerabilities at their root) |
 | **[Libft](https://github.com/Fazejli/Libft)** | 125% | `C` `standard library` `memory` `data structures` | Reimplement key functions from the C standard library (memory management, pointers, and low-level C programming) |
+
+---
+
+## 🌐 Personal & Freelance Projects
+
+| Project | Tech | Focus |
+|---------|----------|------|
+| Wedding Website (Production) | React · Google Sheets API · authentication · dashboard | Full-stack web application with real-time RSVP system, admin dashboard, and guest management (300+ users) |
+| Textile Company Showcase Website | React · UI/UX · responsive design | Corporate landing page for a textile business, focused on product presentation and branding |
+| Portfolio Website | React · Vite · frontend | Personal developer portfolio showcasing projects and technical skills |
+| CTF Writeups (ongoing) | cybersecurity · analysis · methodology | Security challenge documentation and structured technical analysis |
+| Port Scanner (WIP) | C · Python · networking | Network scanning tool for learning TCP/IP behavior and port enumeration |
+| Network Packet Analyzer (WIP) | C · libpcap · networking | Traffic capture and analysis tool for understanding packet-level communication |
 
 ---
 
