@@ -47,7 +47,7 @@ These skills are directly applicable to cybersecurity, backend systems, and infr
 | **[Cub3D](https://github.com/Fazejli/cub3d)** | 125% | `C` `raycasting` `graphics` `memory` | Complex C project involving precise memory management and low-level graphics rendering |
 | **[CPP Modules](https://github.com/Fazejli/CPP)** | - | `C++` `OOP` `templates` `STL` `polymorphism` | 9-module series covering core C++ concepts from classes and inheritance to templates and exceptions |
 | **[NetPractice](https://github.com/Fazejli/netpractice)** | 100% | `networking` `TCP/IP` `subnetting` `routing` | Master IP addressing, subnetting and routing|
-| **[Minishell](https://github.com/dbouizem/minishell)** | 125% | `processes` `syscalls` `parsing` `fork/exec` |Build a fully functional Build a fully functional UNIX shell from scratch (parsing, process execution, pipes, and signal handling)|
+| **[Minishell](https://github.com/dbouizem/minishell)** | 125% | `processes` `syscalls` `parsing` `fork/exec` |Build a fully functional UNIX shell from scratch (parsing, process execution, pipes, and signal handling)|
 | **[Philosophers](https://github.com/Fazejli/Philosophers)** | 100% | `threads` `mutex` `race conditions` `deadlocks` | Solve the dining philosophers problem (concurrency, race conditions & deadlocks) |
 | **[FdF](https://github.com/Fazejli/FDF)** | 100% | `C` `graphics` `isometric` `bresenham` | 3D wireframe renderer projecting heightmaps with isometric projection and MiniLibX |
 | **[Pipex](https://github.com/Fazejli/pipex)** | 100% | `pipes` `IPC` `file descriptors` `UNIX` | Reimplement UNIX pipes (IPC, file descriptors, and process communication) |
@@ -67,10 +67,15 @@ These skills are directly applicable to cybersecurity, backend systems, and infr
 | Textile Company Showcase Website | React · UI/UX · responsive design | Corporate landing page for a textile business, focused on product presentation and branding |
 | Portfolio Website | React · Vite · frontend | Personal developer portfolio showcasing projects and technical skills |
 | CTF Writeups (ongoing) | cybersecurity · analysis · methodology | Security challenge documentation and structured technical analysis |
-| Port Scanner (WIP) | C · Python · networking | Network scanning tool for learning TCP/IP behavior and port enumeration |
-| Network Packet Analyzer (WIP) | C · libpcap · networking | Traffic capture and analysis tool for understanding packet-level communication |
 
 ---
+
+## 🛠️ Engineering Workflow
+
+- Structured development workflow using GitHub Issues and project tracking
+- End-to-end delivery: development, testing, and deployment (GitHub Pages)
+- Modular system design applied to complex C/C++ projects (Cub3D, Minishell)
+- Focus on reproducible builds and system-level architecture
 
 ## 🛠️ Tech Stack
 
