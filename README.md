@@ -63,7 +63,7 @@ These skills are directly applicable to cybersecurity, backend systems, and infr
 
 | Project | Tech | Focus |
 |---------|----------|------|
-| Wedding Website (Production) | React · Google Sheets API · authentication · dashboard | Full-stack web application with real-time RSVP system, admin dashboard, and guest management (300+ users) |
+| [Wedding Website](https://zejli-et-paschal.vercel.app/) | React · Google Sheets API · authentication · dashboard | Full-stack web application with real-time RSVP system, admin dashboard, and guest management (300+ users) |
 | Textile Company Showcase Website | React · UI/UX · responsive design | Corporate landing page for a textile business, focused on product presentation and branding |
 | Portfolio Website | React · Vite · frontend | Personal developer portfolio showcasing projects and technical skills |
 | CTF Writeups (ongoing) | cybersecurity · analysis · methodology | Security challenge documentation and structured technical analysis |
